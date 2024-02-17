@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm jesús soto paguay</h1>
-<h3 align="center">System Enginner And Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sotopaguayj&label=Profile%20views&color=0e75b6&style=flat" alt="sotopaguayj" /> </p>
-
-- 🌱 I’m currently learning **more about my skills**
-
-- 💬 Ask me about **what can i develop**
-
-- 📫 How to reach me **sotopaguayj@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sotopaguayj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sotopaguayj" height="30" width="40" /></a>
