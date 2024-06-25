@@ -1,5 +1,6 @@
 ![](https://res.cloudinary.com/dgnrqnj8y/image/upload/v1719285305/gutvqabidfpvqnvz63ny.jpg)
-#####¡Hola! Soy Jesús, ingeniero de sistemas especializado en desarrollo web. Aunque me inclino más por el frontend, también manejo las bases del backend. Actualmente, utilizo herramientas como Angular y React, siendo esta última la que uso con mayor frecuencia junto a Node.js y Express.
+<b>Hola! Soy Jesús, ingeniero de sistemas especializado en desarrollo web. Aunque me inclino más por el frontend, también manejo las bases del backend. Actualmente, utilizo herramientas como Angular y React, siendo esta última la que uso con mayor frecuencia junto a Node.js y Express.
+</b>
 Mis habilidades incluyen el uso de lenguajes de consulta con MySQL y conocimientos básicos en MongoDB para la gestión de bases de datos. Además, puedo trabajar bajo los sistemas de Windows y Linux . Siempre estoy en constante aprendizaje, explorando y probando nuevas tecnologías en el ámbito web.
 > En mis tiempos libres, disfruto ilustrando gráficamente como hobby.
 
