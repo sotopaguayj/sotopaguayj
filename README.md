@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1DMEsXC_8a5AIqkgoatxDnQb8WwLFnrwZ/view?usp=sharing" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sotopaguayj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sotopaguayj" height="30" width="40" /></a>
