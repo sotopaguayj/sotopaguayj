@@ -4,7 +4,7 @@
 <br/>
 Mis habilidades incluyen el uso de lenguajes de consulta con MySQL y conocimientos básicos en MongoDB para la gestión de bases de datos. Además, puedo trabajar bajo los sistemas de Windows y Linux . Siempre estoy en constante aprendizaje, explorando y probando nuevas tecnologías en el ámbito web.
 > En mis tiempos libres, disfruto ilustrando gráficamente como hobby.
-
+ <marquee>holis </marquee>
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex; gap:1rem;">
 <a href="https://twitter.com/sotopaguayj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sotopaguayj" height="30" width="40" /></a>
