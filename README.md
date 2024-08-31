@@ -1,4 +1,8 @@
-![](https://res.cloudinary.com/dgnrqnj8y/image/upload/v1719285305/gutvqabidfpvqnvz63ny.jpg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sotopaguayj/sotopaguayj/output/snake.svg" alt="Snake animation" />
+
+###
 <b>Hola! Soy Jesús, ingeniero de sistemas especializado en desarrollo web. Aunque me inclino más por el frontend, también manejo las bases del backend. Actualmente, utilizo herramientas como Angular y React, siendo esta última la que uso con mayor frecuencia junto a Node.js y Express.
 </b>
 <br/>
