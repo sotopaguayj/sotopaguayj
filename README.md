@@ -16,4 +16,4 @@ Mis habilidades incluyen el uso de lenguajes de consulta con MySQL y conocimient
   <img src="https://github-readme-stats.vercel.app/api?username=sotopaguayj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sotopaguayj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<a href="https://app.daily.dev/sotopaguayj"><img src="https://api.daily.dev/devcards/v2/JpzGv2N8cRb6QpJBk2PUk.png?r=liv" width="356" alt="Jesús Soto Paguay's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/sotopaguayj"><img src="https://api.daily.dev/devcards/v2/JpzGv2N8cRb6QpJBk2PUk.png?r=liv" width="356" alt="Jesús Soto Paguay's Dev Card"/></a> -->
